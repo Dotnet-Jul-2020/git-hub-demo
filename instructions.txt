@@ -1,0 +1,3 @@
+Some instructions you should folow to access the project
+We are working on Git using editor VS code.
+From the server point of view we are using SQL Server.
